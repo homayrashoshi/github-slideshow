@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+You have to be odd to be number one!
 Use the left arrow to go back!
